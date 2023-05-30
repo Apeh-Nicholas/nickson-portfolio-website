@@ -4,10 +4,10 @@ const text = document.querySelector(".sec-text");
 			text.textContent = "Freelancer";
 		}, 0);
 		setTimeout(() => {
-			text.textContent = "web developer";
+			text.textContent = "video editor";
 		}, 4000);
 		setTimeout(() => {
-			text.textContent = "video editor";
+			text.textContent = "web developer";
 		}, 8000);
 		setTimeout(() => {
 			text.textContent = "NDT Inspector";
