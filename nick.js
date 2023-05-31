@@ -12,12 +12,14 @@ const text = document.querySelector(".sec-text");
 		setTimeout(() => {
 			text.textContent = "NDT Inspector";
 		}, 1200);
-		
+		setTimeout(() => {
+			text.textContent = "Physicst (I.N.P)";
+		}, 1600);
 			
 		
 	}
 	textLoad();
-	// setInterval(textLoad, 1200);
+	 setInterval(textLoad, 5000);
 	// 1s =1000 milliseconds
 
 
