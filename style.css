@@ -28,6 +28,7 @@ nav{
 	justify-content: space-between;
 	flex-wrap: wrap;
 	position: fixed;
+	z-index:999;
 	
 }
 .logo{
