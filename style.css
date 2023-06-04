@@ -17,6 +17,7 @@ body{
 	background-image: url(./images/pix2.png);
 	background-size: cover;
 	background-position: center;
+	position: relative;
 }
 .container{
 	padding: 10px 10%;
@@ -26,6 +27,8 @@ nav{
 	align-items: center;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	position: fixed;
+	
 }
 .logo{
 	/*width: 140px;*/
